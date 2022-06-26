@@ -1,6 +1,6 @@
 # 💻Tech Stack
-(https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg)
-(https://github.com/devicons/devicon/raw/master/icons/pandas/pandas-original-wordmark.svg)
+![Python](https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg)
+![Pandas](https://github.com/devicons/devicon/raw/master/icons/pandas/pandas-original-wordmark.svg)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
