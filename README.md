@@ -1,4 +1,4 @@
-<img src="https://sunayguler.com/wp-content/uploads/datascience-slide.jpg" align="left" height="300" width="500" />  
+<img src="https://sunayguler.com/wp-content/uploads/datascience-slide.jpg" align="left" height="400" width="700" />  
   
 
    
