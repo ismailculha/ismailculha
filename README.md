@@ -21,12 +21,6 @@
 <a href="https://medium.com/" rel="nofollow">
   <img align="center" src="https://camo.githubusercontent.com/7848a11c0890b40f0c7ef42b8a3ddb41d343b5705d18cf2ae8d4a3fdad63993a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d6d656469756d2d626c61636b3f267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/%20-medium-black?&amp;style=for-the-badge&amp;logoColor=white" style="max-width: 100%;">
 </a>
-<a href="https://www.hackerrank.com" rel="nofollow">
-  <img align="center" src="https://camo.githubusercontent.com/2500e7254bddd53d40d5bfd313d463d5cdff3c29f5bf254d9d7e6a681674fb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4861636b657272616e6b2d3245433836363f7374796c653d666f722d7468652d6261646765266c6f676f3d4861636b657252616e6b266c6f676f436f6c6f723d7768697465" alt="HackerRank" data-canonical-src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white" style="max-width: 100%;">
-</a>
-<a href="https://github.com/ismailculha">
-  <img align="center" src="https://camo.githubusercontent.com/20c2a268ee41dccd7d3b65c633ec47f5226003784c64f262a968330208c9698a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4665646572616c7472" alt="ismail" width="16%" data-canonical-src="https://komarev.com/ghpvc/?username=ismailculha" style="max-width: 100%;">
-</a>
 </p>
 <div align="center" dir="auto"> <h1 align="center" dir="auto"><a id="user-content--see_no_evil-data-visualization-" class="anchor" aria-hidden="true" href="#-see_no_evil-data-visualization-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> <g-emoji class="g-emoji" alias="see_no_evil" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f648.png">🙈</g-emoji> DATA VISUALIZATION </h1> </div>
 <p align="center" dir="auto">
