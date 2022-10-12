@@ -13,6 +13,22 @@ Currently...
 - 🔥 Passionate about coding and learning
 - 👯 Eager to collaborate
 
+- [x] [DeepLearning Projects ](https://github.com/ismailculha/DeepLearning_Projects)
+
+- [x] [ML Projects](https://github.com/ismailculha/ML_Projects)
+
+- [x] [SQL Projects](https://github.com/ismailculha/SQL-Projects)
+
+- [x] [Exploratory Data Analysis](https://github.com/ismailculha/Exploratory-Data-Analysis)
+
+- [x] [Streamlit](https://github.com/ismailculha/Streamlit)
+
+- [x] [Statistics](https://github.com/ismailculha/Statistics)
+
+- [x] [OpenCV](https://github.com/ismailculha/OpenCv)
+
+- [x] [Certificates](https://github.com/ismailculha/Certificates)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
