@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://sunayguler.com/wp-content/uploads/datascience-slide.jpg" width="750" height="500"/>
+  <img src="https://sunayguler.com/wp-content/uploads/datascience-slide.jpg" width="750" height="400"/>
 </div>
 
 Ismail Culha
