@@ -49,7 +49,7 @@ Currently...
 </div>
 
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=adsum-ss&style=flat-square&color=blue" class="center" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=ismailculha&style=flat-square&color=blue" class="center" alt=""/>
 </p>  
 
 
@@ -89,15 +89,15 @@ Currently...
 ---
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=adsum-ss&show_icons=true&theme=merko" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ismailculha&show_icons=true&theme=merko" width="400" height="200"/>
 </a>
 <a href="https://git.io/streak-stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=adsum-ss&theme=merko&background=000000" width="400" height="200"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ismailculha&theme=merko&background=000000" width="400" height="200"/>
 </a>
 </div>
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adsum-ss&layout=compact&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailculha&layout=compact&theme=vision-friendly-dark" />
 </a>
 </div>
